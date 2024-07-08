@@ -1,1 +1,2 @@
-Code for reproducing the figures in the Letter to Editor.
+Code for reproducing the figures in the PNAS Letter to Editor titled "With the leisure of time, kinetic proofreading can still
+perform reliable ligand discrimination" (2024).
